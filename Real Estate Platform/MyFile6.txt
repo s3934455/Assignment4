@@ -1,0 +1,26 @@
+HouseID: ABC1234567
+HouseDescription: It is a very good house
+HouseType: Apartment
+No.of.bedrooms: 2
+No.of.bathrooms: : 2
+No.of.CarSpace: 1HouseID: ABC1234567
+HouseDescription: It is a very good house
+HouseType: Apartment
+No.of.bedrooms: 2
+No.of.bathrooms: : 2
+No.of.CarSpace: 1HouseID: ABC1234567
+HouseDescription: It is a very good house
+HouseType: Apartment
+No.of.bedrooms: 2
+No.of.bathrooms: : 2
+No.of.CarSpace: 1HouseID: ABC1234567
+HouseDescription: It is a very good house
+HouseType: Apartment
+No.of.bedrooms: 2
+No.of.bathrooms: : 2
+No.of.CarSpace: 1HouseID: ABC1234567
+HouseDescription: It is a very good house
+HouseType: Apartment
+No.of.bedrooms: 2
+No.of.bathrooms: : 2
+No.of.CarSpace: 1

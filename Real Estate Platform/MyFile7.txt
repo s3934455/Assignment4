@@ -1,0 +1,9 @@
+HouseID: ABC1234567
+HouseDescription: It is a very good house
+HouseType: Apartment
+HouseAddress: Melbourne
+No.of.bedrooms: 2
+No.of.bathrooms: : 2
+No.of.CarSpace: 1
+
+House Price: 400000.0
